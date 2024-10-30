@@ -1,5 +1,5 @@
 ### Hi, I'm Nelly 👋
-- 🎓 I’m currently a .NET development student within C# at KYH in Stockholm, Liljeholmen.
+- 🎓 .NET development student specializing in C# at [KYH, Stockholm (Liljeholmen)] (https://kyh.se/utbildningar/net-developer/)<br/>
 - 🌱 Currently studying C# and OOP principles.
 <!--
 
