@@ -7,6 +7,8 @@
 ### 💻 Tech Stack 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api?username=nellysosobrado&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 
 
 
