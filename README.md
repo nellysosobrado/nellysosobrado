@@ -1,6 +1,6 @@
 # Hi, I'm Nelly
-- 🎓 .NET development student specializing in C# at KYH, Stockholm (Liljeholmen)<br>
-- 🌱 Currently studying C# and OOP principles.
+- 🎓 Studying to become .NET Developer at KYH, Stockholm (Liljeholmen)<br>
+- 🌱 Currently studying C# and Databases 
 
 Contact: Nelly.Sosobrado@gmail.com
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
