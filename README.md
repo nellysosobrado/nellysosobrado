@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Nelly
+# Nelly 
 
-🎓 Studying to become a **.NET Developer** at **KYH Stockholm (Liljeholmen)**  
-📅 Graduation planned for **June 2026**  
-🛠️ I work mainly with **C#**, **.NET**, and web technologies in school projects  
-📗 Focused on writing clear code and learning through practical development and testing  
+I am currently studying to become a .NET Developer at KYH Stockholm (Liljeholmen), with graduation planned for June 2026.  
+I enjoy working with C#, ASP.NET, and web development, and I want to learn more through real projects.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Outside of programming, I am also interested in **3D**, **design**, **game development**, and **anime**.  
+I would love to combine creativity with code in future projects.
+
+📌 I am actively looking for an LIA (internship) position between 8 December 2025 and 24 April 2026.
+
+📬 Feel free to contact me at: nelly.sosobrado@gmail.com
