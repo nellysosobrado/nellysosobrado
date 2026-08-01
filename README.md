@@ -1,12 +1,14 @@
-# (Nelly) Nylegna Kir Sosobrado 
+# Hi, I'm Nelly 👋
 
-I am currently studying to become a .NET Developer at KYH Stockholm (Liljeholmen), with graduation planned for June 2026.  
-I enjoy working with web development and I want to learn more through real projects.
+I am a recently graduated **full-stack .NET Developer** from KYH Stockholm.
 
-Outside of programming I am also interested in **3D**, **design** and **game development**. 
+During my education, I worked with technologies such as **C#, ASP.NET Core, Entity Framework Core, SQL Server, Razor Pages, Blazor, React and Azure**. I enjoy building web applications, learning new technologies and developing my skills through practical projects.
 
-📌 I am actively looking for an LIA (internship) between 8 December 2025 and 24 April 2026.
+I completed my internship at **Webbkompaniet**, where I worked with WordPress, HTML, CSS, JavaScript and website development.
 
-📬 Feel free to contact me at: nelly.sosobrado@gmail.com
+Outside of programming, I am interested in **3D, digital design and game development**, with experience using tools such as Blender and Unity.
 
-→ Portfolio: https://nylegnakir-portfolio.azurewebsites.net/
+🔎 I am currently looking for a **junior .NET Developer, backend developer or full-stack developer position**.
+
+📬 **Contact:**  
+nelly.sosobrado@gmail.com
