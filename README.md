@@ -6,7 +6,4 @@ During my education, I worked with technologies such as **C#, ASP.NET Core, Enti
 
 I completed my internship at **Webbkompaniet**, where I worked with WordPress, HTML, CSS, JavaScript and website development.
 
-🔎 I am currently looking for a **junior .NET Developer, backend developer or full-stack developer position**.
 
-📬 **Contact:**  
-nelly.sosobrado@gmail.com
